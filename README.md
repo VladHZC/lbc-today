@@ -5,3 +5,6 @@ This extension allows you to monitor the current LBC exchange rate.
 ## 0.0.1 version - (actually my first learning project)
 
 ![](https://i.postimg.cc/LXG3BWjH/Screenshot-4.png)
+
+By: lbry.to/vladhzc and lbry.to/ClaytonDoesThings
+Thanks @madiator and all LBRY comunnity for the encouragement
