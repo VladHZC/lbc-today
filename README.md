@@ -11,6 +11,6 @@ Thanks **@madiator** and all **LBRY comunnity** for the encouragement
 
 Next Features to come: 
 - change badge color greem/red according with change rate
--
+- add a converter tool
 -
 -
