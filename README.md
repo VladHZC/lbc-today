@@ -6,11 +6,11 @@ This extension allows you to monitor the current LBC exchange rate.
 
 ![](https://i.postimg.cc/LXG3BWjH/Screenshot-4.png)
 
-By: **lbry.to/vladhzc** and **lbry.to/ClaytonDoesThings**
+By: **lbry.to/vladtv** and **lbry.to/ClaytonDoesThings**
 Thanks **@madiator** and all **LBRY comunnity** for the encouragement
 
 Next Features to come: 
-- change badge color greem/red according with change rate
+- change badge color green/red according with change rate
 - add a converter tool
 -
 -
