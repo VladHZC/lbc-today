@@ -3,11 +3,11 @@
 
   "name": "LBC today",
   "description": "Stay up to date",
-  "version": "1.0",
+  "version": "1.1",
   "background": {
     "scripts": ["background.js"]
   },
-  
+
   "browser_action": {
 	"default_popup": "popup.html",
 	"default_title": "LBC converter",
@@ -23,12 +23,7 @@
       "32": "images/icon32.png",
       "48": "images/icon48.png",
       "128": "images/icon128.png"
-    },
-    
-  "permissions": [
-    "activeTab",
-    "https://files.coinmarketcap.com/static/widget/currency.js"
+    }
 
-  ]
 
 }
