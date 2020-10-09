@@ -19,12 +19,7 @@ You know when you get 1 million LBC and don't know how much weed/beer you can bu
 ---
 [![](https://i.ibb.co/7vwwjQN/Screenshot-2.jpg)](https://addons.mozilla.org/firefox/downloads/file/3657516/lbc_today-1.2.1-fx.xpi) need to fix HTML, but works
  ##### ...:point_up:  (you can click here)
-----
-# Open-source Code (lots of browsers)
 ---
-[![](https://i.ibb.co/6v7cwrX/download-github.png)](https://github.com/VladHZC/lbc-today/archive/master.zip)
- ##### ...:point_up:  (you can click here)
--------
 ### Thanks to @claytondoesthings for helping me with JS
  -----
  ![](https://i.ibb.co/hsYXzhX/Screenshot-2.png )
