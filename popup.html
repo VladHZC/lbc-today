@@ -1,14 +1,54 @@
+
 <!doctype html>
 <html>
 <head>
+    <title>LBC Today</title>
+    <script src="popup.js"></script>
+    <script src="background.js"></script>
 </head>
-<body>
-<p></p>
-    <iframe src="https://widget.coinlib.io/widget?type=chart&theme=dark&coin_id=662&pref_coin_id=1505" width="500px" height="536px"></iframe>
+<body class="dark">
+    <style>
+        body {background-color: #1D2330;
+              overflow: hidden;
+              margin: 0;
+              height: 100%;
+        }
+        #numero{
+            height: 32px;
+            font-size: 16px;
+            background-image: url(images/icon128.png);
+            background-size: 32px;
+            background-position:right;
+            background-repeat: no-repeat;
+            margin-left: 25px;
+        }
 
-    <a href="http://www.lbry.to/vladtv" target="_blank">by: @Vlad,</a>
-	<a href="http://www.lbry.to/claytondoesthing" target="_blank">@Clayton</a>
-	<a href="https://lbry.to/Madiator" target="_blank">@Madiator</a>
+        iframe {
+            overflow: hidden;
+        }
+        .button {
+            border: black;
+            color: white;
+            padding: 8px 16px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;}
+        .button {background-color: #008CBA;} /* Blue */
+        .button:hover {background-color: #4CAF50; color: white;}
+        .boxed {font-size: 20px;
+            color: white;
+            text-decoration-color: aliceblue;
+        }
+    </style>
+    <iframe scrolling="no" frameborder="0" src="https://widget.coinlib.io/widget?type=chart&theme=dark&coin_id=662&pref_coin_id=1505" width="536px" height="536px" ></iframe>
 
+    <input id="numero" type="text" placeholder="How much you got?" >
+    <button id ="btn" class="button">Convert</button>
+    <b> <output class="boxed" id="result" ></output></b>
+
+    <p></p>
 </body>
 </html>
