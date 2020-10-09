@@ -2,7 +2,7 @@
 
 ![](https://i.ibb.co/3SmZWyk/Screenshot-4.jpg)
 
-<iframe id="lbry-iframe" width="560" height="315" src="https://lbry.tv/$/embed/lbc/74234964a9ae49f016ef7af658a1b385e4ed52b2?r=Chqxa96iSkxWBR1AL6NiHKxS28x2vpx9" allowfullscreen></iframe>
+---
 
 You know when you get 1 million LBC and don't know how much weed/beer you can buy with it ?
 
