@@ -3,7 +3,7 @@
 
   "name": "LBC today",
   "description": "Stay up to date",
-  "version": "1.1",
+  "version": "1.2",
   "background": {
     "scripts": ["background.js"]
   },
