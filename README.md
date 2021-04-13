@@ -33,6 +33,6 @@ You know when you get 1 million LBC and don't know how much weed/beer you can bu
 ### Thanks to @claytondoesthings for helping me with JS
 ------
 
-![](https://i.ibb.co/hsYXzhX/Screenshot-2.png )
+![](https://i.ibb.co/F5Yjt85/lbccccccc.gif)
 
 ### Now you can do the convertion in your browser and keep yourself updated with the price (buy and support your favorite creators!) 
