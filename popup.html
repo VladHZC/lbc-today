@@ -8,20 +8,69 @@
 </head>
 
 <body class="dark">
+
     <style>
         body {
-            background-color: #1D2330;
+            background-color: black;
             overflow: hidden;
             margin: 0;
             height: 100%;
             scrollbar-color: dark;
         }
+        
+        #numero {
+            height: 32px;
+            font-size: 16px;
+            background-image: url(images/icon128.png);
+            background-size: 32px;
+            background-position: right;
+            background-repeat: no-repeat;
+            margin-left: 25px;
+        }
+        
+        iframe {
+            overflow: hidden;
+        }
+        
+        .button {
+            border: black;
+            color: white;
+            padding: 8px 16px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+        }
+        
+        .button {
+            background-color: #24292b;
+        }
+        /* Blue */
+        
+        .button:hover {
+            background-color: #f19be3;
+            color: white;
+        }
+        
+        .boxed {
+            font-size: 20px;
+            color: white;
+            text-decoration-color: aliceblue;
+        }
+        
+        .paragraph {
+            color: white
+        }
     </style>
 
-
-    <iframe scrolling="no" frameborder="0" src="https://widget.coinlib.io/widget?type=converter&theme=dark" width="400px" height="300px"></iframe>
-
-
+    <iframe scrolling="no" style="width:536px; height: 300px; border: 0;" src="https://coindodo.io/embedded/price/lbc"></iframe>
+    <input id="numero" type="text" placeholder="How much you got?">
+    <button id="btn" class="button">Convert</button>
+    <b> <output class="boxed" id="result" ></output></b>
+    <p></p>
+    <a href="https://coindodo.io/" class='paragraph' color=white> Powered by Coindodo</a>
 
 </body>
 
